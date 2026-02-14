@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "time": "10:00 AM - 11:00 AM",
+    "title": "Scaling Distributed Systems with Event-Driven Architecture",
+    "speakers": ["Alex Chen", "Sarah Miller"],
+    "categories": ["Cloud", "Architecture", "Backend"],
+    "duration": "1 hour",
+    "description": "Explore the principles of event-driven design to build resilient and scalable microservices. This talk covers message brokers, eventual consistency, and real-world patterns used at scale."
+  },
+  {
+    "id": 2,
+    "time": "11:10 AM - 12:10 PM",
+    "title": "Modern Frontend Performance: Beyond the Lighthouse Score",
+    "speakers": ["Jordan Smith"],
+    "categories": ["Frontend", "Performance", "JavaScript"],
+    "duration": "1 hour",
+    "description": "Deep dive into browser rendering pipelines, Web Vitals, and advanced optimization techniques to provide a buttery-smooth user experience."
+  },
+  {
+    "id": 3,
+    "time": "12:20 PM - 1:20 PM",
+    "title": "Securing Your CI/CD Pipelines in a Zero-Trust World",
+    "speakers": ["Elena Rodriguez", "Marcus Thorne"],
+    "categories": ["Security", "DevOps"],
+    "duration": "1 hour",
+    "description": "Learn how to implement security as code. We will discuss supply chain attacks, automated vulnerability scanning, and managing secrets securely in automated workflows."
+  },
+  {
+    "id": 4,
+    "time": "2:20 PM - 3:20 PM",
+    "title": "The Future of AI: Integrating LLMs into Production Applications",
+    "speakers": ["Dr. Aris Varma"],
+    "categories": ["AI", "Machine Learning", "Python"],
+    "duration": "1 hour",
+    "description": "Moving past the hype: practical strategies for deploying Large Language Models. Focus on prompt engineering, RAG (Retrieval-Augmented Generation), and monitoring AI performance."
+  },
+  {
+    "id": 5,
+    "time": "3:30 PM - 4:30 PM",
+    "title": "Rust for JavaScript Developers: Bridging the Gap",
+    "speakers": ["Liam O'Connor"],
+    "categories": ["Rust", "WebAssembly", "JavaScript"],
+    "duration": "1 hour",
+    "description": "Discover why Rust is becoming a favorite for web tooling. This talk introduces Rust syntax through the lens of JS and explores how WebAssembly is changing web development."
+  },
+  {
+    "id": 6,
+    "time": "4:40 PM - 5:40 PM",
+    "title": "Database Deep Dive: Choosing Between SQL, NoSQL, and NewSQL",
+    "speakers": ["Sanya Gupta", "Kevin Lee"],
+    "categories": ["Database", "Backend"],
+    "duration": "1 hour",
+    "description": "An analytical comparison of modern data storage solutions. Understand the trade-offs in CAP theorem, ACID compliance, and horizontal vs. vertical scaling."
+  }
+]
